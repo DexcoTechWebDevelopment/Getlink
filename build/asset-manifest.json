@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6aa42d75.css",
+    "main.js": "/static/js/main.fc19f42a.js",
+    "static/media/man-wearing-smart-glasses-touching-virtual-screen 1.png": "/static/media/man-wearing-smart-glasses-touching-virtual-screen 1.03eeee77d2d5a9dfeb53.png",
+    "static/media/Image 1.png": "/static/media/Image 1.114858089bc6a1487f00.png",
+    "static/media/cwok_casual_21 1.png": "/static/media/cwok_casual_21 1.1629426f1ff4b191eec1.png",
+    "static/media/Purple-Lens-Flare-PNG.png": "/static/media/Purple-Lens-Flare-PNG.b8535e2298e0ca2136bf.png",
+    "static/media/9486889 1.png": "/static/media/9486889 1.391bf4bd30111c58dbfc.png",
+    "static/media/8046554 1.png": "/static/media/8046554 1.d724c7720f47fa5c7410.png",
+    "static/media/7450159 1.png": "/static/media/7450159 1.f5ab4262820295d8c00a.png",
+    "static/media/3d-graphic-designer-showing-thumbs-up-png 1.png": "/static/media/3d-graphic-designer-showing-thumbs-up-png 1.ad7a16e28e7ef0a5d1de.png",
+    "static/media/08 1.png": "/static/media/08 1.bf09c37d5fdf2bfb91a3.png",
+    "static/media/metrix 1.png": "/static/media/metrix 1.707237dc732333fe1230.png",
+    "static/media/Vector.png": "/static/media/Vector.76bd892261c2e68feac6.png",
+    "static/media/Purple-Lens-Flare-PNG-second.png": "/static/media/Purple-Lens-Flare-PNG-second.2cbbb49cfb2b988ecf0d.png",
+    "static/media/gold_medal 1.png": "/static/media/gold_medal 1.375a5539c5e7837e2e20.png",
+    "static/media/congratulation.png": "/static/media/congratulation.14440086374cf78ab71b.png",
+    "static/media/the big idea 1.png": "/static/media/the big idea 1.cc9c1c5280ca8a50bde0.png",
+    "static/media/bronze_medal 1.png": "/static/media/bronze_medal 1.3f06179f39384b8179f2.png",
+    "static/media/silver_medal 1.png": "/static/media/silver_medal 1.d79f749f23626316a4c6.png",
+    "static/media/Ellipse 2.png": "/static/media/Ellipse 2.6c525b324ec5f34f5c85.png",
+    "index.html": "/index.html",
+    "main.6aa42d75.css.map": "/static/css/main.6aa42d75.css.map",
+    "main.fc19f42a.js.map": "/static/js/main.fc19f42a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aa42d75.css",
+    "static/js/main.fc19f42a.js"
+  ]
+}
